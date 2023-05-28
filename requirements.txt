@@ -1,0 +1,6 @@
+selenium
+requests
+lxml
+bs4
+flake8
+autopep8
